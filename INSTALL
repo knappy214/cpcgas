@@ -1,0 +1,9 @@
+Building CgtCoin
+
+See doc/readme-qt.rst for instructions on building cgtcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CgtCoin.
+
+See doc/build-*.txt for instructions on building cgtcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of CgtCoin.
